@@ -21,7 +21,7 @@ Para ver la página web en tu navegador local, sigue estos pasos:
 #Uso
 Simplemente abre el archivo index.html en tu navegador preferido para ver la página web. Puedes navegar por las diferentes secciones utilizando el menú de navegación en la parte superior de la página.
 
-#Contribución
+# Contribución
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
 Haz un fork del repositorio.
@@ -30,7 +30,7 @@ Realiza tus cambios y haz commit (git commit -am 'Añadir nueva característica'
 Sube los cambios a tu repositorio (git push origin feature/nueva-caracteristica).
 Abre un Pull Request.
 Créditos
-Este proyecto fue creado por Tu Nombre. Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto.
+Este proyecto fue creado por Fernanda Marti. Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto.
 
-#Licencia
+# Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
